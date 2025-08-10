@@ -1,4 +1,4 @@
-<<<<<<< HEAD
+
 # Deep Learning Based Product Reordering Prediction
 
 ## Problem Statement
@@ -22,8 +22,8 @@ Instacart Market Basket Analysis Dataset.
 ```bash
 pip install -r requirements.txt
 python run.py
-=======
 
 
 
->>>>>>> b478e204eaec0ea2c681185d68a9dca06393e9ee
+
+
